@@ -1,8 +1,11 @@
 # Useful-dpy-scripts
 A bunch of useful code snippets which you can use for your discord bot coded in dpy
-<p> In this repository I published some commands which I made for my own bot (Coral). </p>
-<p> When using them make sure you give me credit (https://github.com/evo0616lution). </p>
-<u> This additional packages are needed: </u>
+
+In this repository I published some commands which I made for my own bot (Coral).
+
+When using them make sure you give me credit (https://github.com/evo0616lution). 
+
+This additional packages are needed:
 ```
 discord
 requests
@@ -10,8 +13,9 @@ asyncio
 discord-py-slash-command
 postbin
 ```
-<p> You can install them using pip. </p>
-<u> This are the imports for the code: </u>
+ You can install them using pip.
+
+This are the imports for the code:
 ```
 import discord
 import asyncio
